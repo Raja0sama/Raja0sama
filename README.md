@@ -1,16 +1,28 @@
-### Hi there 👋
+[![N|Solid](https://i.imgur.com/djb0QpA.jpg)](https://rajaosama.me/)
 
-<!--
-**Raja0sama/Raja0sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey, I'm Raja Osama 👋.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a creative intellectual and a Rockstar 🤘 and Tech Agnostic Developer, with a can-do attitude and the right mindset. I love to explore new technologies, concepts, and frameworks. A standout gentleman, always humble and hungry for adventure with my never say never mind.
+
+I got into programming because of gamming; all these websites over the internet that share games with great interfaces doing amazing functionalities inspired me to get into web development, and eventually end up getting myself enrolled in a Software Engineering Program after High School.
+
+<pre>
+I'm usually focused on:
+- 🎛️ Designing great User interfaces. experience
+- 🌐 Developing full-stack websites that scale
+- ✨ Developing backend and structuring databases.
+- 🧰 Building Libraries and writing Technical blogs.
+ 
+In my work, I value:
+- ⏱️ Efficiency
+- 🎯 Consistency
+- ♻️ Reusability
+- ⚙️ Systems
+- 📋 Standards
+- 🤖 Automation
+- 💠 Modular Design
+- 👍 Emoji Lists 
+
+- 💬 Reach me on my email rajaosama.me@gmail.com
+</pre>
