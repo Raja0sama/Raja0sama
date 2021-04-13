@@ -26,3 +26,7 @@ In my work, I value:
 
 - 💬 Reach me on my email rajaosama.me@gmail.com
 </pre>
+
+![Raja's github Stats](https://github-readme-stats.vercel.app/api?username=Raja0sama&theme=vision-friendly-dark)
+![Raja's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja0sama&theme=vision-friendly-dark&hide_langs_below=1&layout=compact)
+
