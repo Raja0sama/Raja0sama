@@ -5,7 +5,7 @@
 
 
 ### Hey, I'm Raja Osama 👋.
-a multi-talented Human being, a self-proclaimed Best Developer in the world, A Javascript enthusiast, A Rockstar programmer, Currently living in Karachi~Pakistan. I have worked my ass off for the past 5 years in the tech world, mostly for startups and as a freelancer, created tons of landing pages, websites, mobile applications along the way, as well as dropped my bachelor's degree, failed my startup, and created huge, unrealistic expectations of self.
+a multi-talented Human being, A Javascript enthusiast, A Rockstar programmer, Currently living in Karachi~Pakistan. I have worked my ass off for the past 5 years in the tech world, mostly for startups and as a freelancer, created tons of landing pages, websites, mobile applications along the way, as well as dropped my bachelor's degree, failed my startup, and created huge, unrealistic expectations of self.
 
 
 The Abundant energy I have fuels me in the pursuit of various interests, hobbies, areas of studies, and artistic endeavors. I am a fast learner who adapts quickly to change and eager to learn new methods and procedures, whether it is a cultural change or a work-related one. 
