@@ -1,19 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=raja0sama)
 
 
-[![N|Solid](https://i.imgur.com/djb0QpA.jpg)](https://rajaosama.me/)
+[![N|Solid](https://media-exp1.licdn.com/dms/image/C4D16AQHqtan7AkCIiA/profile-displaybackgroundimage-shrink_350_1400/0/1644957147102?e=1650499200&v=beta&t=2nxChFxbMUVslMp5auJ_JHXjwDHK5V5fRXcWwJf0fOQ)](https://rajaosama.me/)
 
 
 ### Hey, I'm Raja Osama 👋.
-a multi-talented Human being, A Javascript enthusiast, A Rockstar programmer, Currently living in Karachi~Pakistan. I have worked my ass off for the past 5 years in the tech world, mostly for startups and as a freelancer, created tons of landing pages, websites, mobile applications along the way, as well as dropped my bachelor's degree, failed my startup, and created huge, unrealistic expectations of self.
+A Rockstar programmer, Currently living in Dubai~UAE. I am a passionate developer that has successfully deployed and handed over more than 50+ mobile/desktop/Web applications. I have also published more than 30+ articles with combined engagement/views/read of 2500+ monthly. I also have published more than 10+ open-source project / Project-starters, from which two GitHub repo with more than 50+ stars.
 
+I also have published two npm packages with over 800+ weekly downloads. I love programming, part of the reason is that I have been doing it since I was 12 years old; I have plenty of websites dating back to 2012 when I used to use blogger platforms and shared gaming-related content.
 
-The Abundant energy I have fuels me in the pursuit of various interests, hobbies, areas of studies, and artistic endeavors. I am a fast learner who adapts quickly to change and eager to learn new methods and procedures, whether it is a cultural change or a work-related one. 
-
-
- I am an adventurer, I want to travel the world, I am fascinated by the beauty of the Earth. The goal is to travel and to get me into a recursive infinite loop of traveling, living the moment and working in a location for a certain period and then move to the next one. Not just the world I am fascinated by SPACE, everything about space and distant planets and the countless stars fascinate me in a way that I can’t put into words.
-
- As a Programmer, I would like to call myself a Tech Agnostic Polyglot Programmer, One who can adapt and learn and change according to the surrounding.
+I am passionate about programming, and in the past six years, I have worked with many projects, frameworks, and languages. In my spare time, I am focused on building new applications or replicating some existing applications to understand the concept behind them, explore new frameworks, and write technical blogs about my experiences with technologies and guides on my medium profile.
 
 ![Raja's github Stats](https://github-readme-stats.vercel.app/api?username=Raja0sama&theme=vision-friendly-dark)
 ![Raja's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja0sama&theme=vision-friendly-dark&hide_langs_below=1&layout=compact)
