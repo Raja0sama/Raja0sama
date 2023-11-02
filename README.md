@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=raja0sama)
 
 
-[![N|Solid](https://media-exp1.licdn.com/dms/image/C4D16AQHqtan7AkCIiA/profile-displaybackgroundimage-shrink_350_1400/0/1644957147102?e=1650499200&v=beta&t=2nxChFxbMUVslMp5auJ_JHXjwDHK5V5fRXcWwJf0fOQ)](https://rajaosama.me/)
+
 
 
 ### Hey, I'm Raja Osama 👋.
